@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>行途 XingTu · 名片 / 开源矩阵</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif; background:#f7f9fc; color:#1e293b; padding:40px 20px; }
+  .wrap { max-width:1040px; margin:0 auto; }
+
+  .top { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; flex-wrap:wrap; gap:12px; }
+  .logo { display:flex; align-items:center; gap:14px; }
+  .icon { width:50px; height:50px; background:#2E8B57; border-radius:13px; display:flex; align-items:center; justify-content:center; font-size:24px; color:#fff; box-shadow:0 4px 14px rgba(46,139,87,.28); }
+  .logo h1 { font-size:23px; color:#0f172a; letter-spacing:.5px; }
+  .logo .en { font-size:12px; color:#64748b; margin-top:3px; }
+  .badges { display:flex; gap:8px; flex-wrap:wrap; }
+  .badge { background:#fff; border:1px solid #e2e8f0; border-radius:999px; padding:5px 14px; font-size:12px; color:#475569; }
+  .badge.green { background:#2E8B57; border-color:#2E8B57; color:#fff; }
+
+  .intro { background:#fff; border:1px solid #eef2f7; border-radius:16px; padding:26px 30px; margin:18px 0; box-shadow:0 1px 4px rgba(0,0,0,.05); }
+  .intro .q { color:#2E8B57; font-weight:700; font-size:16px; margin-bottom:10px; }
+  .intro p { font-size:14.5px; color:#475569; line-height:1.95; }
+  .intro b { color:#0f172a; }
+
+  .sec-title { display:flex; align-items:center; gap:9px; font-size:16px; font-weight:700; color:#0f172a; margin:30px 0 14px; }
+  .sec-title .bar { width:4px; height:17px; background:#2E8B57; border-radius:2px; }
+  .sec-title .sub { font-size:12px; color:#94a3b8; font-weight:400; }
+
+  /* 开源矩阵图解 */
+  .matrix { background:#fff; border:1px solid #eef2f7; border-radius:16px; padding:26px 22px; box-shadow:0 1px 4px rgba(0,0,0,.05); }
+  .m-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; }
+  .mcard { border:1px solid #e2e8f0; border-radius:14px; padding:16px; background:#f8fafc; transition:transform .15s; text-decoration:none; display:block; }
+  .mcard:hover { transform:translateY(-3px); box-shadow:0 6px 18px rgba(15,23,42,.08); }
+  .mcard .mt { font-size:14px; font-weight:700; color:#0f172a; display:flex; align-items:center; gap:8px; }
+  .mcard .mt .dot { width:8px; height:8px; background:#2E8B57; border-radius:2px; }
+  .mcard .md { font-size:12px; color:#64748b; margin-top:7px; line-height:1.6; }
+  .mcard .mk { display:inline-block; font-size:10px; color:#2E8B57; background:#e8f5ee; border-radius:999px; padding:2px 9px; margin-top:9px; }
+  .mcard.hl { border-color:#2E8B57; background:#fff; }
+
+  /* 内容阵地 + 联系 */
+  .two { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:14px; }
+  .panel { background:#fff; border:1px solid #eef2f7; border-radius:14px; padding:20px 22px; box-shadow:0 1px 4px rgba(0,0,0,.05); }
+  .panel h3 { font-size:14.5px; color:#0f172a; margin-bottom:12px; display:flex; align-items:center; gap:8px; }
+  .panel h3 .bar { width:4px; height:15px; background:#2E8B57; border-radius:2px; }
+  .panel li { list-style:none; font-size:13px; color:#475569; padding:6px 0; border-bottom:1px dashed #eef2f7; }
+  .panel li:last-child { border-bottom:none; }
+  .panel li .k { color:#94a3b8; }
+  .panel li b { color:#0f172a; }
+
+  .footer { text-align:center; color:#94a3b8; font-size:11.5px; margin-top:26px; }
+  @media (max-width:760px){ .m-grid{ grid-template-columns:1fr 1fr; } .two{ grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="logo">
+      <div class="icon">行</div>
+      <div>
+        <h1>行途 XingTu</h1>
+        <div class="en">一线 AI 工程化实践者 · 深度写代码</div>
+      </div>
+    </div>
+    <div class="badges">
+      <span class="badge">AI 工程化</span>
+      <span class="badge">Claude Code</span>
+      <span class="badge">MCP / Agent</span>
+      <span class="badge green">MIT 开源</span>
+    </div>
+  </div>
+
+  <div class="intro">
+    <div class="q">把生产环境的真实 AI 工程实践，蒸馏成可复用的工具与方法论。</div>
+    <p>专注 <b>AI 工程化</b>（harness / Agent / MCP / Skill），擅长从一线踩坑中提炼可复用的资产。开源矩阵覆盖方法论旗舰、脚手架、技能聚合、钩子、规则、SDD、MCP、CLI、脚本工具与模型评测——全部 MIT，AI 可检索。</p>
+  </div>
+
+  <div class="sec-title"><span class="bar"></span>开源矩阵 <span class="sub">11 仓 · 已发布（陆续公开）</span></div>
+  <div class="matrix">
+    <div class="m-grid">
+      <a class="mcard hl" href="https://github.com/xingtu1996/xingtu-ai-engineering">
+        <div class="mt"><span class="dot"></span>xingtu-ai-engineering</div>
+        <div class="md">方法论旗舰仓：五大工程（上下文 / 提示词 / 驾驭 / 图 / 循环）+ 哲学 / 方法 / 治理 / 会话</div>
+        <span class="mk">⭐ 旗舰</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-harness">
+        <div class="mt"><span class="dot"></span>xingtu-harness</div>
+        <div class="md">AI 工程化脚手架：一键拉全开源资产（含 8 个子模块）</div>
+        <span class="mk">脚手架</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-skills">
+        <div class="mt"><span class="dot"></span>xingtu-skills</div>
+        <div class="md">AI Agent 技能聚合仓：26 个 skill，find-skills 可检索</div>
+        <span class="mk">Skills</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-rules">
+        <div class="mt"><span class="dot"></span>xingtu-rules</div>
+        <div class="md">AI 协作规则工程化：规则分层、作用域、准入门禁</div>
+        <span class="mk">Rules</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-sdd">
+        <div class="mt"><span class="dot"></span>xingtu-sdd</div>
+        <div class="md">规格驱动开发（SDD）方法论：Spec 先行 / 断点续传</div>
+        <span class="mk">SDD</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-hooks">
+        <div class="mt"><span class="dot"></span>xingtu-hooks</div>
+        <div class="md">Claude Code 钩子集合：安全拦截 / 会话提醒 / 交付检视</div>
+        <span class="mk">Hooks</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-mcps">
+        <div class="mt"><span class="dot"></span>xingtu-mcps</div>
+        <div class="md">MCP 服务集合：飞书机器人参考实现等</div>
+        <span class="mk">MCP</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-cli">
+        <div class="mt"><span class="dot"></span>xingtu-cli</div>
+        <div class="md">零依赖命令行工具：Claude Code 配置管理 / 安全护栏</div>
+        <span class="mk">CLI</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu-tools">
+        <div class="mt"><span class="dot"></span>xingtu-tools</div>
+        <div class="md">工程脚本工具集：解析器 / 转换器 / 监控 / 模型建议</div>
+        <span class="mk">Tools</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/tokenhub-bench">
+        <div class="mt"><span class="dot"></span>tokenhub-bench</div>
+        <div class="md">可复现 LLM 模型榜单评测：引擎 + 真实评测数据</div>
+        <span class="mk">Bench</span>
+      </a>
+      <a class="mcard" href="https://github.com/xingtu1996/xingtu1996">
+        <div class="mt"><span class="dot"></span>xingtu1996</div>
+        <div class="md">名片仓（本页）：身份 / 矩阵 / 阵地 / 联系</div>
+        <span class="mk">名片</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="two">
+    <div class="panel">
+      <h3><span class="bar"></span>内容阵地</h3>
+      <ul>
+        <li><span class="k">公众号</span>　<b>行途</b>（AI 工具链实践 + 一线工程师视角）</li>
+        <li><span class="k">个人站</span>　<b>xingtu.dev</b></li>
+        <li><span class="k">技术社区</span>　掘金 / CSDN / 知乎 @行途</li>
+        <li><span class="k">视频</span>　AI 工程化短视频（筹备中）</li>
+      </ul>
+    </div>
+    <div class="panel">
+      <h3><span class="bar"></span>联系</h3>
+      <ul>
+        <li><span class="k">GitHub</span>　<a href="https://github.com/xingtu1996" style="color:#2E8B57;font-weight:600;">@xingtu1996</a></li>
+        <li><span class="k">邮箱</span>　<b>xingtutech@163.com</b>（招聘 / 合作优先）</li>
+        <li><span class="k">邮箱</span>　xingtutech@gmail.com</li>
+        <li><span class="k">定位</span>　一线 AI 工程化 · 深度写代码 · 可复用资产</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer">行途 XingTu · 2026 · 内容基于真实工程实践</div>
+</div>
+</body>
+</html>
