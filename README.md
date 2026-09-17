@@ -227,3 +227,14 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=xingtu1996&label=Profile%20views&color=2E8B57&style=for-the-badge)
 
 </div>
+
+---
+
+## 👤 关于行途
+
+一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。
+
+- 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
+- GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
+- 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
+- 📱 公众号：「行途技术手记」（深度长文 + 可抄作业的实战经验）
