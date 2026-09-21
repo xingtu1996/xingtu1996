@@ -217,7 +217,7 @@
 | 📱 公众号 | **行途技术手记** | AI 工程化实践 · 小厂技术人的真实成长 |
 | ✍️ 掘金/CSDN/知乎 | @行途 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
-| ✉️ 邮箱 | xingtutech@gmail.com | 备用联系渠道 |
+| ✉️ 邮箱 | xingtutech@gemail.com | 备用联系渠道 |
 
 </div>
 
