@@ -178,13 +178,14 @@
 
 | 日期 | 标题 | 合集 | 阅读 |
 |------|------|------|------|
-| 2026-09-07 | [Anthropic官方提示词手册：Fable 5.1的12条模式](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-07-fable-5.1-prompt-patterns.md) | 🔧 AI工程化 | - |
-| 2026-09-06 | [AI时代知识复利｜让过去的自己替未来的你打工](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-06-knowledge-compounding.md) | 🌱 知识复利 | - |
-| 2026-09-05 | [GPT-6 Astra与Work Agent时代，Harness是工具还是规矩？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-05-harness-cognition.md) | 🔧 AI工程化 | - |
-| 2026-09-04 | [Vibe Coder、FDE、Harness Engineer……AI时代的5种工程师](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-04-five-types-engineers.md) | 🔧 AI工程化 | - |
-| 2026-08-28 | [省token的第一性原理：把「不用推理的活」，从模型手里拿回来](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-08-28-save-token-first-principle.md) | 🪙 省token | - |
-| 2026-08-27 | [智谱「牛来」GLM-5.3 Flash正式开源：比DeepSeek V4 Flash还便宜](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-08-27-glm-5.3-flash.md) | 🚀 大模型观察 | 🔥 141 |
-| 2026-04-15 | [把4小时排查压到75分钟：我是如何用AI解决微服务"超卖"悬案的](https://github.com/xingtu1996/xingtu-articles) | 🔧 AI工程化 | 🔥 111 |
+| 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-17-palantir-fde-dual-role.md) | 🔧 FDE落地 | - |
+| 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 🤖 Agent选型 | 🔥 133 |
+| 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 🚀 大模型观察 | 🔥 105 |
+| 2026-09-14 | [FDE 能力模型：8 个维度拆解，从技术到沟通的完整画像](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-14-fde-capability-model-8-dimensions.md) | 🔧 AI工程化 | - |
+| 2026-09-13 | [PEC 2026 AI 创新者大会台下一天：Token 工厂、FDE、AI 出海与 Harness](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-13-pec-2026-conference-field-notes.md) | 🚀 大模型观察 | 🔥 198 |
+| 2026-09-12 | [DeepSeek 升级没让我改一行配置，我却删了 306 行规则](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-12-deepseek-upgrade-306-lines-removed.md) | 🔧 AI工程化 | - |
+| 2026-09-11 | [DeepSeek 降价全景：旗舰砍到 1/7.5，企业只省 17.5%](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-11-deepseek-price-cutdown.md) | 🚀 大模型观察 | - |
+| 2026-09-10 | [国家点名 FDE：AI 落地缺的不是模型，是现场的人](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-10-fde-ai-landing-people.md) | 🔧 AI工程化 | 🔥 157 |
 
 ---
 
@@ -214,7 +215,7 @@
 | 📱 公众号 | **行途技术手记** | AI 工程化实践 · 小厂技术人的真实成长 |
 | ✍️ 掘金/CSDN/知乎 | @行途 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
-| ✉️ 邮箱 | xingtutech@gemail.com | 备用联系渠道 |
+| ✉️ 邮箱 | xingtutech@gmail.com | 备用联系渠道 |
 
 </div>
 
