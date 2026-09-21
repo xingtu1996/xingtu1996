@@ -80,6 +80,7 @@
 | [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | 零依赖开发者 CLI 工具集 | 活跃 |
 | [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集 | 活跃 |
 | [xingtu-design](https://github.com/xingtu1996/xingtu-design) | **品牌视觉规范**：三原色 / 封面律动 / 正文排版 / 信息图标准，build in public | 活跃 |
+| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | 提示词库 | 活跃 |
 
 ### 学习与决策（过程态资产）
 
@@ -97,7 +98,6 @@
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化） | 活跃 |
 | [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：29 技能一条命令安装即用 | 活跃 |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | 提示词库 | 活跃 |
 | [xingtu1996.github.io](https://github.com/xingtu1996/xingtu1996.github.io) | 个人站源码（GitHub Pages） | 活跃 |
 
 ---
