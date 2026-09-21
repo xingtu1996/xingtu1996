@@ -79,7 +79,6 @@
 | [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | 生产级 MCP 服务集合 | 活跃 |
 | [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | 零依赖开发者 CLI 工具集 | 活跃 |
 | [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集 | 活跃 |
-| [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
 
 ### 学习与决策（过程态资产）
 
@@ -93,6 +92,8 @@
 | 项目 | 说明 | 状态 |
 |------|------|------|
 | [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途格式件 + 署名页脚 | 活跃 |
+| [book2vido](https://github.com/xingtu1996/book2vido) | **文本→视频零成本流水线**：PDF/长文 → 半分钟竖屏短视频，纯本地零成本 | 活跃 |
+| [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化） | 活跃 |
 | [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：29 技能一条命令安装即用 | 活跃 |
 | [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | 提示词库 | 活跃 |
