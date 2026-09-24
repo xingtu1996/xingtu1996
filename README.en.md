@@ -79,6 +79,7 @@ Not just talking about ideas, but distilling **real production environment pract
 | [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | Zero-dependency developer CLI toolkit | Active |
 | [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | Engineering scripts toolkit | Active |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | Reproducible LLM model benchmark evaluation | Active |
+| 🆕 [article2pod](https://github.com/xingtu1996/article2pod) | **Article-to-podcast zero-cost pipeline**: WeChat article → host+author interview podcast (local LLM + edge-tts dual voices + FFmpeg) | Active |
 
 ---
 
