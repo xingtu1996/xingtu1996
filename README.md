@@ -48,7 +48,7 @@
 [![Total Contributions](https://img.shields.io/badge/Contributions-138%2B-2E8B57?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-F59E0B?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Longest Streak](https://img.shields.io/badge/Longest_Streak-4_days-8B5CF6?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-19-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-21-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
 
 </div>
 
@@ -58,7 +58,7 @@
 - 总贡献数：138+（2026年4月至今）
 - 当前连续贡献：2天
 - 最长连续贡献：4天
-- 公开仓库：16个
+- 公开仓库：21个
 - 主要语言：Python / Shell / JavaScript / TypeScript / Java
 
 ---
@@ -94,7 +94,8 @@
 | 项目 | 说明 | 状态 |
 |------|------|------|
 | [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途格式件 + 署名页脚 | 活跃 |
-| [book2vido](https://github.com/xingtu1996/book2vido) | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 活跃 |
+| 🆕 [article2pod](https://github.com/xingtu1996/article2pod) | **文章→双人对话播客零成本流水线**：公众号长文 → 主持人+作者访谈式播客（本地 LLM 写稿 + edge-tts 双音色 + FFmpeg 合成），单集成本 ≈ ¥0.0005 | 活跃 |
+| book2vido | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 筹划中（私有） |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化） | 活跃 |
 | [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：29 技能一条命令安装即用 | 活跃 |
