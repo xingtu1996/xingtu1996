@@ -149,11 +149,11 @@ Not just talking about ideas, but distilling **real production environment pract
 
 | Date | Title | Collection | Views |
 |------|-------|------------|-------|
-| 2026-09-06 | [Knowledge Compounding in the AI Era](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-06-knowledge-compounding.md) | 🌱 Knowledge Compounding | - |
-| 2026-09-05 | [Harness: Tool or Rule? AI Engineering Cognition Ladder](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-05-harness-cognition.md) | 🔧 AI Engineering | - |
-| 2026-09-04 | [5 Types of Engineers in the AI Era](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-09-04-five-types-engineers.md) | 🔧 AI Engineering | - |
-| 2026-08-28 | [First Principles of Token Saving](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-08-28-save-token-first-principle.md) | 🪙 Token Saving | - |
-| 2026-08-27 | [GLM-5.3 Flash Open Source: Cheaper than DeepSeek V4 Flash](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026-08-27-glm-5.3-flash.md) | 🚀 LLM Observation | 🔥 141 |
+| 2026-09-06 | [Knowledge Compounding in the AI Era](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-06-knowledge-compounding.md) | 🌱 Knowledge Compounding | - |
+| 2026-09-05 | [Harness: Tool or Rule? AI Engineering Cognition Ladder](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-05-harness-cognition.md) | 🔧 AI Engineering | - |
+| 2026-09-04 | [5 Types of Engineers in the AI Era](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-04-five-types-engineers.md) | 🔧 AI Engineering | - |
+| 2026-08-28 | [First Principles of Token Saving](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/08/2026-08-28-save-token-first-principle.md) | 🪙 Token Saving | - |
+| 2026-08-27 | [GLM-5.3 Flash Open Source: Cheaper than DeepSeek V4 Flash](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/08/2026-08-27-glm-5.3-flash.md) | 🚀 LLM Observation | 🔥 141 |
 | 2026-04-15 | [4 Hours to 75 Minutes: Solving Microservice Overselling with AI](https://github.com/xingtu1996/xingtu-articles) | 🔧 AI Engineering | 🔥 111 |
 
 ---
