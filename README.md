@@ -181,6 +181,7 @@
 
 | 日期 | 标题 | 分类 | 阅读 |
 |------|------|------|------|
+| 2026-09-25 | [FDE 工作法：进场、在场、离场，AI 落地是这样跑完的](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-25-fde-working-method-three-stages.md) | 🔧 FDE | 54 |
 | 2026-09-24 | [AI 越用越笨？问题不在模型，在上下文管理](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-24-token-09-context-management.md) | 🔧 FDE | 26 |
 | 2026-09-23 | [Vibe coding 出来的代码没人看了：我花 spec 的时间比写代码还多](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-23-vibe-coding-nobody-reads-code.md) | 🚀 工具横评 | 104 |
 | 2026-09-22 | [省token横评：9个主流编程Agent谁最省token](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-22-token-benchmark-9-coding-agents.md) | 🚀 工具横评 | 98 |
@@ -190,7 +191,6 @@
 | 2026-09-18 | [小团队加 AI，一个多月交付十多万行代码：一次 FDE 实战复盘](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-18-small-team-ai-delivery-fde-review.md) | 🔧 FDE | 66 |
 | 2026-09-17 | [Palantir 的 FDE 拆成两个人：Echo 懂、Delta 造，AI 落地最后 100 米](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-17-palantir-fde-dual-role.md) | 🔧 FDE | 97 |
 | 2026-09-16 | [员工比功能，老板看生态：WorkBuddy、豆包工作、千问办公选型账本](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-16-workbuddy-doubao-qwen-ecosystem-choice.md) | 🚀 工具横评 | 165 |
-| 2026-09-15 | [DeepSeek V4 Pro 不下线了：一场没完成的退役，和三个通用判断](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/09/2026-09-15-deepseek-v4-pro-retirement-reversed.md) | 🚀 工具横评 | 443 |
 
 ## 🎯 正在做什么
 
