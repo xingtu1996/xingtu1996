@@ -48,7 +48,7 @@
 [![Total Contributions](https://img.shields.io/badge/Contributions-138%2B-2E8B57?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-F59E0B?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Longest Streak](https://img.shields.io/badge/Longest_Streak-4_days-8B5CF6?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-23-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-19-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
 
 </div>
 
@@ -65,22 +65,25 @@
 
 ## 📦 开源矩阵
 
-> 🧩 **DeepSeek Harness（DSH）生态兼容**：skills / mcps / hooks / rules / harness 各仓均按 DSH「一切皆插件」模型的标准格式提供，可直接加载使用。
+> 🧩 **DeepSeek Harness（DSH）生态兼容**：skills / rules / harness 各仓均按 DSH「一切皆插件」模型的标准格式提供；hooks / mcps 已并入 harness-kit 捆绑发布。
+>
+> ♻️ **2026-10-12 矩阵裁剪**（如无必要勿增实体）：xingtu-hooks / xingtu-mcps / xingtu-cli / xingtu-design / xingtu-prompts 五仓内容已分别合入 harness-kit / xingtu-tools / xingtu-skills，原仓只读归档、链接不失效。
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
 | ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（73 资产） | 活跃 |
 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **公众号文章库**：已发布文章 Markdown 镜像 + 配图 | 活跃 |
 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI 工程化脚手架：一键拉全开源资产 | 活跃 |
-| [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（127 SKILL.md，find-skills 可检索） | 活跃 |
-| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | Claude Code 钩子集合 | 活跃 |
+| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（127 SKILL.md + 87 prompts，find-skills 可检索） | 活跃 |
 | [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI 协作规则工程化 | 活跃 |
 | [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | 规格驱动开发（SDD）方法论 | 活跃 |
-| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | 生产级 MCP 服务集合 | 活跃 |
-| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | 零依赖开发者 CLI 工具集 | 活跃 |
-| [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集 | 活跃 |
-| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | **品牌视觉规范**：三原色 / 封面律动 / 正文排版 / 信息图标准，build in public | 活跃 |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | 提示词库 | 活跃 |
+| [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集（含零依赖 CLI） | 活跃 |
+
+### 定时任务（多 Agent 编排层）
+
+| 项目 | 说明 | 状态 |
+|------|------|------|
+| 🆕 [xingtu-automations](https://github.com/xingtu1996/xingtu-automations) | **多 Agent 定时任务 Registry**：17 条任务的工具中立清单（触发 / cwd / prompt 全文 / 产物落点）+ 跨平台重建指南。WorkBuddy / Claude Code / cron 全兼容 | 活跃 |
 
 ### 学习与决策（过程态资产）
 
@@ -97,7 +100,7 @@
 | 🆕 [article2pod](https://github.com/xingtu1996/article2pod) | **文章→双人对话播客零成本流水线**：公众号长文 → 主持人+作者访谈式播客（本地 LLM 写稿 + edge-tts 双音色 + FFmpeg 合成），单集成本 ≈ ¥0.0005 | 活跃 |
 | book2vido | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 筹划中（私有） |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
-| [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化） | 活跃 |
+| [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化）；捆绑 hooks / mcps / 品牌视觉规范 | 活跃 |
 | [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：29 技能一条命令安装即用 | 活跃 |
 | [xingtu1996.github.io](https://github.com/xingtu1996/xingtu1996.github.io) | 个人站源码（GitHub Pages） | 活跃 |
 
