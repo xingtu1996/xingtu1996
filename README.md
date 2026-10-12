@@ -48,7 +48,7 @@
 [![Total Contributions](https://img.shields.io/badge/Contributions-138%2B-2E8B57?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-F59E0B?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Longest Streak](https://img.shields.io/badge/Longest_Streak-4_days-8B5CF6?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-19-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-18-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
 
 </div>
 
