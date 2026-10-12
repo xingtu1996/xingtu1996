@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=social)](https://github.com/xingtu1996)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/xingtu1996?style=social)](https://x.com/xingtu1996)
-[![公众号](https://img.shields.io/badge/公众号-行途技术手记-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
+[![公众号](https://img.shields.io/badge/公众号-行途-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
 [![个人站](https://img.shields.io/badge/个人站-xingtu1996.pages.dev-blue)](https://xingtu1996.pages.dev)
 
 **[English Version](./README.en.md) | [中文版](./README.md)**
@@ -48,7 +48,7 @@
 [![Total Contributions](https://img.shields.io/badge/Contributions-138%2B-2E8B57?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-F59E0B?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Longest Streak](https://img.shields.io/badge/Longest_Streak-4_days-8B5CF6?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-22-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-23-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
 
 </div>
 
@@ -72,7 +72,7 @@
 | ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（73 资产） | 活跃 |
 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **公众号文章库**：已发布文章 Markdown 镜像 + 配图 | 活跃 |
 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI 工程化脚手架：一键拉全开源资产 | 活跃 |
-| [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（29 SKILL.md，find-skills 可检索） | 活跃 |
+| [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（127 SKILL.md，find-skills 可检索） | 活跃 |
 | [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | Claude Code 钩子集合 | 活跃 |
 | [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI 协作规则工程化 | 活跃 |
 | [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | 规格驱动开发（SDD）方法论 | 活跃 |
@@ -215,7 +215,7 @@
 |------|------|------|
 | 🌐 个人站 | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | 个人主页与作品集 |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI工程化实战，build in public |
-| 📱 公众号 | **行途技术手记** | AI 工程化实践 · 小厂技术人的真实成长 |
+| 📱 公众号 | **行途** | AI 工程化实践 · 小厂技术人的真实成长 |
 | ✍️ 掘金/CSDN/知乎 | @行途 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
 | ✉️ 邮箱 | xingtutech@gemail.com | 备用联系渠道 |
@@ -241,4 +241,4 @@
 - 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
 - GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
 - 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
-- 📱 公众号：「行途技术手记」（深度长文 + 可抄作业的实战经验）
+- 📱 公众号：「行途」（深度长文 + 可抄作业的实战经验）

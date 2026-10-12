@@ -47,7 +47,7 @@ Not just talking about ideas, but distilling **real production environment pract
 [![Total Contributions](https://img.shields.io/badge/Contributions-138%2B-2E8B57?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-F59E0B?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
 [![Longest Streak](https://img.shields.io/badge/Longest_Streak-4_days-8B5CF6?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-22-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-23-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
 
 </div>
 
@@ -71,7 +71,7 @@ Not just talking about ideas, but distilling **real production environment pract
 | ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **Methodology flagship repo**: concepts/methods/five engineering pillars/governance/sessions/templates (73 assets) | Active |
 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **Article library**: Published articles Markdown mirror + images | Active |
 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI engineering scaffolding: one-click pull all open source assets | Active |
-| [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent skills aggregation repo (29 SKILL.md, find-skills searchable) | Active |
+| [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent skills aggregation repo (127 SKILL.md, find-skills searchable) | Active |
 | [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | Claude Code hooks collection | Active |
 | [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI collaboration rules engineering | Active |
 | [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | Spec-Driven Development (SDD) methodology | Active |
@@ -181,7 +181,7 @@ Not just talking about ideas, but distilling **real production environment pract
 |----------|---------|-------------|
 | 🌐 Personal Site | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | Personal homepage and portfolio |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI engineering practice, build in public |
-| 📱 WeChat | **行途技术手记 (XingTu Tech Notes)** | AI engineering practice · Real growth of small-factory tech people |
+| 📱 WeChat | **行途 (XingTu)** | AI engineering practice · Real growth of small-factory tech people |
 | ✍️ Juejin/CSDN/Zhihu | @行途 | Tech article syndication |
 
 </div>
