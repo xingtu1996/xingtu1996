@@ -1,6 +1,6 @@
 <div align="center">
 
-# 行途 XingTu
+# 行途技术
 
 **一线 AI 工程化实践者 · 深度写代码**
 
@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=social)](https://github.com/xingtu1996)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/xingtu1996?style=social)](https://x.com/xingtu1996)
-[![公众号](https://img.shields.io/badge/公众号-行途-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
+[![公众号](https://img.shields.io/badge/公众号-行途技术-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
 [![个人站](https://img.shields.io/badge/个人站-xingtu1996.pages.dev-blue)](https://xingtu1996.pages.dev)
 
 **[English Version](./README.en.md) | [中文版](./README.md)**
@@ -96,7 +96,7 @@
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
-| [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途格式件 + 署名页脚 | 活跃 |
+| [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途技术格式件 + 署名页脚 | 活跃 |
 | 🆕 [article2pod](https://github.com/xingtu1996/article2pod) | **文章→双人对话播客零成本流水线**：公众号长文 → 主持人+作者访谈式播客（本地 LLM 写稿 + edge-tts 双音色 + FFmpeg 合成），单集成本 ≈ ¥0.0005 | 活跃 |
 | book2vido | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 筹划中（私有） |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
@@ -219,8 +219,8 @@
 |------|------|------|
 | 🌐 个人站 | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | 个人主页与作品集 |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI工程化实战，build in public |
-| 📱 公众号 | **行途** | AI 工程化实践 · 小厂技术人的真实成长 |
-| ✍️ 掘金/CSDN/知乎 | @行途 | 技术文章同步分发 |
+| 📱 公众号 | **行途技术** | AI 工程化实践 · 小厂技术人的真实成长 |
+| ✍️ 掘金/CSDN/知乎 | @行途技术 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
 | ✉️ 邮箱 | xingtutech@gemail.com | 备用联系渠道 |
 
@@ -238,11 +238,11 @@
 
 ---
 
-## 👤 关于行途
+## 👤 关于行途技术
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。
 
 - 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
 - GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
 - 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
-- 📱 公众号：「行途」（深度长文 + 可抄作业的实战经验）
+- 📱 公众号：「行途技术」（深度长文 + 可抄作业的实战经验）

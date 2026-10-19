@@ -1,6 +1,6 @@
 <div align="center">
 
-# XingTu (行途)
+# 行途技术 (行途技术)
 
 **Hands-on AI Engineering Practitioner · Writing Code Daily**
 
@@ -181,8 +181,8 @@ Not just talking about ideas, but distilling **real production environment pract
 |----------|---------|-------------|
 | 🌐 Personal Site | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | Personal homepage and portfolio |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI engineering practice, build in public |
-| 📱 WeChat | **行途 (XingTu)** | AI engineering practice · Real growth of small-factory tech people |
-| ✍️ Juejin/CSDN/Zhihu | @行途 | Tech article syndication |
+| 📱 WeChat | **行途技术 (行途技术)** | AI engineering practice · Real growth of small-factory tech people |
+| ✍️ Juejin/CSDN/Zhihu | @行途技术 | Tech article syndication |
 
 </div>
 
