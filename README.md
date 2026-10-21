@@ -45,21 +45,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=for-the-badge&logo=github&labelColor=181717&color=2E8B57)](https://github.com/xingtu1996)
 [![GitHub stars](https://img.shields.io/github/stars/xingtu1996?style=for-the-badge&logo=github&labelColor=181717&color=F59E0B&affiliations=OWNER)](https://github.com/xingtu1996?tab=repositories&sort=stargazers)
-[![Total Contributions](https://img.shields.io/badge/Contributions-138%2B-2E8B57?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Current Streak](https://img.shields.io/badge/Current_Streak-2_days-F59E0B?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Longest Streak](https://img.shields.io/badge/Longest_Streak-4_days-8B5CF6?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-24-06B6D4?style=for-the-badge&logo=github&labelColor=181717)](https://github.com/xingtu1996?tab=repositories)
 
 </div>
 
-> 以上统计数据由 shields.io 实时生成，稳定可靠。完整贡献图见 [GitHub 个人主页贡献面板](https://github.com/xingtu1996)
-
-**核心数据**：
-- 总贡献数：138+（2026年4月至今）
-- 当前连续贡献：2天
-- 最长连续贡献：4天
-- 公开仓库：24个
-- 主要语言：Python / Shell / JavaScript / TypeScript / Java
+> 贡献记录、连续提交与仓库清单以 [GitHub 个人主页](https://github.com/xingtu1996) 实时面板为准，这里不写易过时的静态数字。主要语言：Python / Shell / JavaScript / TypeScript / Java。
 
 ---
 
@@ -181,27 +170,27 @@
 
 ## 📝 最新文章
 
-> 完整文章库（37 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
+> 完整文章库（38 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
 
 | 日期 | 标题 | 分类 | 阅读 |
 |------|------|------|------|
+| 2026-10-21 | [项目范围越失控，客户越满意？一个 FDE 项目的真相](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md) | 📌 FDE实战 | 3 |
 | 2026-10-20 | [我说了句「改吧」，AI 就不按规矩来了？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-20-two-words-bypass-process.md) | 📌 AI 工程化实践 | 22 |
 | 2026-10-19 | [你的 AI 护栏装了等于没装：三种静默失效](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md) | 📌 AI 工程化实践 | 5 |
 | 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 🔧 FDE | 6 |
-| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent | 27 |
+| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent | 28 |
 | 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 📌 AI 工程化实战 | 34 |
 | 2026-10-14 | [说不清需求，AI 就替你乱跑：Anthropic 工程师的原话，和我的三个解法](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-14-requirement-unclear-ai-runs-wild.md) | 📌 AI 工程化实战 | 45 |
 | 2026-10-13 | [AI 写代码跑一半就'失忆'？把进度写成机器读得懂的文件](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-13-ai-coding-context-loss-sdd-v2.md) | 📌 AI 工程化实战 | 50 |
 | 2026-10-12 | [AI 交叉对抗性审查：1 个模型，4 个专家，0 个额外账号](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-12-adversarial-review-4-experts.md) | 📌 AI 工程化实践 | 14 |
 | 2026-10-11 | [AI 的记忆只有 30 天：你的对话正在被定时删掉](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-11-ai-memory-30-days.md) | 📌 AI 工程化实践 | 33 |
-| 2026-10-10 | [AI 编程贵，八成是浪费](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-10-ai-coding-half-is-waste.md) | 🚀 工具横评 | 78 |
 
 ## 🎯 正在做什么
 
 ### 当前聚焦
 - 🔧 **AI 工程化实战**：Harness / Agent / MCP / Skill / Rules 工程化落地
 - 🌱 **知识复利体系**：把日常 AI 会话沉淀成可复用素材卡（2153→771）
-- 📝 **公众号内容矩阵**：5大合集，30篇文章，从认知到实战
+- 📝 **公众号内容矩阵**：已发 37 篇，从认知到实战
 - 🚀 **多平台引流**：X（@xingtu1996）→ GitHub → 公众号三层漏斗
 
 ### 长期目标
@@ -219,10 +208,9 @@
 |------|------|------|
 | 🌐 个人站 | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | 个人主页与作品集 |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI工程化实战，build in public |
-| 📱 公众号 | **行途技术** | AI 工程化实践 · 小厂技术人的真实成长 |
+| 📱 公众号 | **行途技术手记**（微信搜索关注） | AI 工程化实践 · 小厂技术人的真实成长 |
 | ✍️ 掘金/CSDN/知乎 | @行途技术 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
-| ✉️ 邮箱 | xingtutech@gemail.com | 备用联系渠道 |
 
 </div>
 
@@ -245,4 +233,4 @@
 - 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
 - GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
 - 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
-- 📱 公众号：「行途技术」（深度长文 + 可抄作业的实战经验）
+- 📱 公众号：「行途技术手记」（深度长文 + 可抄作业的实战经验，微信搜索关注）
