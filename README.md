@@ -208,7 +208,7 @@
 |------|------|------|
 | 🌐 个人站 | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | 个人主页与作品集 |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI工程化实战，build in public |
-| 📱 公众号 | **行途技术手记**（微信搜索关注） | AI 工程化实践 · 小厂技术人的真实成长 |
+| 📱 公众号 | **行途 XingTu**（微信搜索关注） | AI 工程化实践 · 小厂技术人的真实成长 |
 | ✍️ 掘金/CSDN/知乎 | @行途技术 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
 
@@ -233,4 +233,4 @@
 - 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
 - GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
 - 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
-- 📱 公众号：「行途技术手记」（深度长文 + 可抄作业的实战经验，微信搜索关注）
+- 📱 公众号：「行途 XingTu」（深度长文 + 可抄作业的实战经验，微信搜索关注）
