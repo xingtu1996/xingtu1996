@@ -138,7 +138,7 @@ Not just talking about ideas, but distilling **real production environment pract
 
 ## 📝 Latest Articles
 
-> 37 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
+> 37 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途 XingTu"; the GitHub repo is the searchable mirror.
 
 ---
 
@@ -165,7 +165,7 @@ Not just talking about ideas, but distilling **real production environment pract
 |----------|---------|-------------|
 | 🌐 Personal Site | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | Personal homepage and portfolio |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI engineering practice, build in public |
-| 📱 WeChat | **行途技术手记** (search on WeChat) | AI engineering practice · hands-on notes from production |
+| 📱 WeChat | **行途 XingTu** (search on WeChat) | AI engineering practice · hands-on notes from production |
 | ✍️ Juejin/CSDN/Zhihu | @行途技术 | Tech article syndication |
 | ✉️ Email | xingtutech@163.com | Consulting · coaching · enterprise training |
 
