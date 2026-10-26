@@ -170,20 +170,20 @@
 
 ## 📝 最新文章
 
-> 完整文章库（42 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
+> 完整文章库（43 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
 
 | 日期 | 标题 | 分类 | 阅读 |
 |------|------|------|------|
-| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | 📌 看懂FDE | - |
-| 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 📌 看懂FDE | 5 |
-| 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 📌 AI工程化 | 28 |
-| 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 📌 AI工程化 | 8 |
-| 2026-10-21 | [项目范围越失控，客户越满意？一个 FDE 项目的真相](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md) | 📌 FDE实战 | 12 |
-| 2026-10-20 | [我说了句「改吧」，AI 就不按规矩来了？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-20-two-words-bypass-process.md) | 📌 AI 工程化实践 | 23 |
-| 2026-10-19 | [你的 AI 护栏装了等于没装：三种静默失效](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md) | 📌 AI 工程化实践 | 5 |
-| 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 🔧 FDE | 6 |
-| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent | 29 |
-| 2026-10-15 | [AI 失忆不是 bug，是架构——记忆层补上了，然后呢？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-15-ai-forgetfulness-is-architecture.md) | 📌 AI 工程化实战 | 34 |
+| 2026-10-26 | [代码写得飞快，交付还是慢：70+ 企业的四道质量门禁](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-26-four-quality-gates.md) | 📌 AI工程化实战 | 35 |
+| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | 📌 看懂FDE | 24 |
+| 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 📌 看懂FDE | 8 |
+| 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 📌 AI工程化 | 32 |
+| 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 📌 AI工程化 | 10 |
+| 2026-10-21 | [项目范围越失控，客户越满意？一个 FDE 项目的真相](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md) | 📌 FDE实战 | 15 |
+| 2026-10-20 | [我说了句「改吧」，AI 就不按规矩来了？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-20-two-words-bypass-process.md) | 📌 AI 工程化实践 | 24 |
+| 2026-10-19 | [你的 AI 护栏装了等于没装：三种静默失效](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-19-ai-guardrail-three-silent-failures.md) | 📌 AI 工程化实践 | 7 |
+| 2026-10-17 | [写方案前，先让 10 个 AI 角色互怼](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-17-ai-roles-debate-before-plan.md) | 🔧 FDE | 8 |
+| 2026-10-16 | [从 AI 到 SI：超级智能体越强，方向越要在人手里](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-16-ai-to-si-super-agent.md) | 📌 看懂 AI Agent | 31 |
 
 ## 🎯 正在做什么
 
