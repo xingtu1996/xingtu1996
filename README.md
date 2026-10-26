@@ -63,7 +63,7 @@
 | ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（73 资产） | 活跃 |
 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **公众号文章库**：已发布文章 Markdown 镜像 + 配图 | 活跃 |
 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI 工程化脚手架：一键拉全开源资产 | 活跃 |
-| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（127 SKILL.md + 87 prompts，find-skills 可检索） | 活跃 |
+| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（136 SKILL.md + 87 prompts，find-skills 可检索） | 活跃 |
 | [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI 协作规则工程化 | 活跃 |
 | [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | 规格驱动开发（SDD）方法论 | 活跃 |
 | [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集（含零依赖 CLI） | 活跃 |
@@ -90,8 +90,13 @@
 | [book2vido](https://github.com/xingtu1996/book2vido) | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 活跃 |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
 | 🆕 [xingtu-cloud-neutral](https://github.com/xingtu1996/xingtu-cloud-neutral) | **云中立 AI 工具带盘点**：本机 AI 工具链一次扫描出清单，跨厂商可迁移性自检 | 已归档（只读） |
+| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | 命令行工具集（内容已合入 xingtu-tools） | 已归档（只读） |
+| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | 设计资产仓（内容已合入 harness-kit） | 已归档（只读） |
+| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | Claude Code hooks 集合（内容已合入 harness-kit） | 已归档（只读） |
+| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | MCP 服务器集合（内容已合入 harness-kit） | 已归档（只读） |
+| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | 提示词库（内容已合入 xingtu-skills/prompts） | 已归档（只读） |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化）；捆绑 hooks / mcps / 品牌视觉规范 | 活跃 |
-| [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：29 技能一条命令安装即用 | 活跃 |
+| [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：30 技能一条命令安装即用 | 活跃 |
 | [xingtu1996.github.io](https://github.com/xingtu1996/xingtu1996.github.io) | 个人站源码（GitHub Pages） | 活跃 |
 
 ---
