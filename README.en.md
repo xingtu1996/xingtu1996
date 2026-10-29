@@ -1,6 +1,6 @@
 <div align="center">
 
-# 行途技术 (XingTu)
+# 行途 XingTu (XingTu)
 
 **Hands-on AI Engineering Practitioner · Still shipping code**
 
@@ -53,9 +53,9 @@ Not just talking about ideas, but distilling **real production environment pract
 
 ## 📦 Open Source Matrix
 
-> 🧩 **DeepSeek Harness (DSH) Ecosystem Compatible**: skills / rules / harness repos follow DSH's "everything is a plugin" standard format; hooks / mcps are bundled into harness-kit.
+> 🧩 **DeepSeek Harness (DSH) Ecosystem Compatible**: skills / rules / harness repos follow DSH's "everything is a plugin" standard format.
 >
-> ♻️ **2026-10-12 trim**: xingtu-hooks / xingtu-mcps / xingtu-cli / xingtu-design / xingtu-prompts were merged into harness-kit / xingtu-tools / xingtu-skills; the old repos are read-only archives with live links.
+> Each topic repo is maintained independently and cross-linked with the aggregation repos (harness-kit / xingtu-tools / xingtu-skills); the topic repo is the authoritative source, aggregation repos only index and assemble.
 
 | Project | Description | Status |
 |---------|-------------|--------|
@@ -66,12 +66,18 @@ Not just talking about ideas, but distilling **real production environment pract
 | [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI collaboration rules engineering | Active |
 | [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | Spec-Driven Development (SDD) methodology | Active |
 | [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | Engineering scripts toolkit (incl. zero-dependency CLI) | Active |
-| [xingtu-automations](https://github.com/xingtu1996/xingtu-automations) | Multi-agent scheduled-task registry, tool-neutral, cross-platform | Active |
+| [xingtu-scheduled](https://github.com/xingtu1996/xingtu-scheduled) | Multi-agent scheduled-task registry, tool-neutral, cross-platform | Active |
 | [xingtu-learn](https://github.com/xingtu1996/xingtu-learn) | Versioned "learn something" process: plan → notes → output → review | Active |
 | [xingtu-portfolio](https://github.com/xingtu1996/xingtu-portfolio) | Decision archive (ADR / patterns): why I chose, not just what I built | Active |
 | [md2wechat](https://github.com/xingtu1996/md2wechat) | Markdown → WeChat formatting, zero-dependency single-file HTML | Active |
 | [article2pod](https://github.com/xingtu1996/article2pod) | Article → dual-voice interview podcast, local LLM + edge-tts + FFmpeg | Active |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | Reproducible LLM model benchmark evaluation | Active |
+| [xingtu-cloud-neutral](https://github.com/xingtu1996/xingtu-cloud-neutral) | **Cloud-neutral / agent-neutral philosophy**: assets stay yours, formats stay portable, tools can be swapped; weekly toolbelt inventory | Active |
+| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | Terminal operation interface set for AI agents: CLI tools and packaging methodology | Active |
+| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | Independent brand-visual spec: palette, cover rhythm, body themes, infographic rules | Active |
+| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | AI agent hook set: on-demand mechanical guards (safety interception / session reminders / delivery review) | Active |
+| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | Production-grade MCP server collection, independently deployable and reusable across hosts | Active |
+| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | Curated prompt library: 80+ scenario-classified, single-file reusable prompts | Active |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | Rollback-able role-based agent harness generator (init/patch/upgrade/doctor) | Active |
 
 ---
@@ -138,7 +144,7 @@ Not just talking about ideas, but distilling **real production environment pract
 
 ## 📝 Latest Articles
 
-> 37 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途 XingTu"; the GitHub repo is the searchable mirror.
+> 46 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
 
 ---
 
@@ -147,7 +153,7 @@ Not just talking about ideas, but distilling **real production environment pract
 ### Current Focus
 - 🔧 **AI Engineering Practice**: Harness / Agent / MCP / Skill / Rules engineering implementation
 - 🌱 **Knowledge Compounding System**: Turning daily AI sessions into reusable material cards (2153→771)
-- 📝 **WeChat official account**: 37 published articles, from cognition to hands-on practice
+- 📝 **WeChat official account**: 46 published articles, from cognition to hands-on practice
 - 🚀 **Multi-platform Traffic Funnel**: X (@xingtu1996) → GitHub → WeChat Official Account
 
 ### Long-term Goals
@@ -165,7 +171,7 @@ Not just talking about ideas, but distilling **real production environment pract
 |----------|---------|-------------|
 | 🌐 Personal Site | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | Personal homepage and portfolio |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI engineering practice, build in public |
-| 📱 WeChat | **行途 XingTu** (search on WeChat) | AI engineering practice · hands-on notes from production |
+| 📱 WeChat | **行途技术手记** (search on WeChat) | AI engineering practice · hands-on notes from production |
 | ✍️ Juejin/CSDN/Zhihu | @行途技术 | Tech article syndication |
 | ✉️ Email | xingtutech@163.com | Consulting · coaching · enterprise training |
 
