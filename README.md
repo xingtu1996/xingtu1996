@@ -1,6 +1,6 @@
 <div align="center">
 
-# 行途技术
+# 行途 XingTu
 
 **一线 AI 工程化实践者 · 深度写代码**
 
@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=social)](https://github.com/xingtu1996)
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/xingtu1996?style=social)](https://x.com/xingtu1996)
-[![公众号](https://img.shields.io/badge/公众号-行途技术-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
+[![公众号](https://img.shields.io/badge/公众号-行途技术手记-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
 [![个人站](https://img.shields.io/badge/个人站-xingtu1996.pages.dev-blue)](https://xingtu1996.pages.dev)
 
 **[English Version](./README.en.md) | [中文版](./README.md)**
@@ -54,13 +54,13 @@
 
 ## 📦 开源矩阵
 
-> 🧩 **DeepSeek Harness（DSH）生态兼容**：skills / rules / harness 各仓均按 DSH「一切皆插件」模型的标准格式提供；hooks / mcps 已并入 harness-kit 捆绑发布。
+> 🧩 **DeepSeek Harness（DSH）生态兼容**：skills / rules / harness 各仓均按 DSH「一切皆插件」模型的标准格式提供。
 >
-> ♻️ **2026-10-12 矩阵裁剪**（如无必要勿增实体）：xingtu-hooks / xingtu-mcps / xingtu-cli / xingtu-design / xingtu-prompts 六仓内容已分别合入 harness-kit / xingtu-tools / xingtu-skills，原仓只读归档、链接不失效。
+> 每个主题仓独立维护，与聚合仓（harness-kit / xingtu-tools / xingtu-skills）双向互链；独立仓为主题权威源，聚合仓仅做索引装配。
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
-| ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（73 资产） | 活跃 |
+| ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（79 资产） | 活跃 |
 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **公众号文章库**：已发布文章 Markdown 镜像 + 配图 | 活跃 |
 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI 工程化脚手架：一键拉全开源资产 | 活跃 |
 | ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（136 SKILL.md + 87 prompts，find-skills 可检索） | 活跃 |
@@ -72,7 +72,7 @@
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
-| 🆕 [xingtu-automations](https://github.com/xingtu1996/xingtu-automations) | **多 Agent 定时任务 Registry**：17 条任务的工具中立清单（触发 / cwd / prompt 全文 / 产物落点）+ 跨平台重建指南。WorkBuddy / Claude Code / cron 全兼容 | 活跃 |
+| 🆕 [xingtu-scheduled](https://github.com/xingtu1996/xingtu-scheduled) | **多 Agent 定时任务 Registry**：22 条任务的工具中立清单（触发 / cwd / prompt 全文 / 产物落点）+ 跨平台重建指南。WorkBuddy / Claude Code / cron 全兼容 | 活跃 |
 
 ### 学习与决策（过程态资产）
 
@@ -85,16 +85,16 @@
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
-| [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途技术格式件 + 署名页脚 | 活跃 |
+| [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途排版「墨排」+ 署名页脚 | 活跃 |
 | 🆕 [article2pod](https://github.com/xingtu1996/article2pod) | **文章→双人对话播客零成本流水线**：公众号长文 → 主持人+作者访谈式播客（本地 LLM 写稿 + edge-tts 双音色 + FFmpeg 合成），单集成本 ≈ ¥0.0005 | 活跃 |
 | [book2vido](https://github.com/xingtu1996/book2vido) | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 活跃 |
 | [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
-| 🆕 [xingtu-cloud-neutral](https://github.com/xingtu1996/xingtu-cloud-neutral) | **云中立 AI 工具带盘点**：本机 AI 工具链一次扫描出清单，跨厂商可迁移性自检 | 已归档（只读） |
-| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | 命令行工具集（内容已合入 xingtu-tools） | 已归档（只读） |
-| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | 设计资产仓（内容已合入 harness-kit） | 已归档（只读） |
-| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | Claude Code hooks 集合（内容已合入 harness-kit） | 已归档（只读） |
-| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | MCP 服务器集合（内容已合入 harness-kit） | 已归档（只读） |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | 提示词库（内容已合入 xingtu-skills/prompts） | 已归档（只读） |
+| 🆕 [xingtu-cloud-neutral](https://github.com/xingtu1996/xingtu-cloud-neutral) | **云中立 / Agent 中立理念层**：资产归你、格式通用、可随工具迁徙；每周工具带盘点台账 | 活跃 |
+| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | **服务于 AI Agent 的终端操作接口集**：CLI 工具与封装方法论 | 活跃 |
+| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | **品牌视觉规范独立仓**：三原色 / 封面律动 / 正文排版主题 / 信息图规范 | 活跃 |
+| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | **AI Agent 钩子集**：按角色选装的机械护栏（安全拦截 / 会话提醒 / 交付检视） | 活跃 |
+| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | **生产级 MCP 服务集合**：可独立部署、跨宿主复用的 MCP server | 活跃 |
+| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | **精选提示词库**：80+ 条按场景分类、单文件复用的实战提示词 | 活跃 |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化）；捆绑 hooks / mcps / 品牌视觉规范 | 活跃 |
 | [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：30 技能一条命令安装即用 | 活跃 |
 | [xingtu1996.github.io](https://github.com/xingtu1996/xingtu1996.github.io) | 个人站源码（GitHub Pages） | 活跃 |
@@ -175,7 +175,7 @@
 
 ## 📝 最新文章
 
-> 完整文章库（44 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
+> 完整文章库（46 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
 
 | 日期 | 标题 | 分类 | 阅读 |
 |------|------|------|------|
@@ -195,7 +195,7 @@
 ### 当前聚焦
 - 🔧 **AI 工程化实战**：Harness / Agent / MCP / Skill / Rules 工程化落地
 - 🌱 **知识复利体系**：把日常 AI 会话沉淀成可复用素材卡（2153→771）
-- 📝 **公众号内容矩阵**：已发 37 篇，从认知到实战
+- 📝 **公众号内容矩阵**：已发 46 篇，从认知到实战
 - 🚀 **多平台引流**：X（@xingtu1996）→ GitHub → 公众号三层漏斗
 
 ### 长期目标
@@ -213,7 +213,7 @@
 |------|------|------|
 | 🌐 个人站 | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | 个人主页与作品集 |
 | 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI工程化实战，build in public |
-| 📱 公众号 | **行途 XingTu**（微信搜索关注） | AI 工程化实践 · 小厂技术人的真实成长 |
+| 📱 公众号 | **行途技术手记**（微信搜索关注） | AI 工程化实践 · 小厂技术人的真实成长 |
 | ✍️ 掘金/CSDN/知乎 | @行途技术 | 技术文章同步分发 |
 | ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
 
@@ -231,11 +231,11 @@
 
 ---
 
-## 👤 关于行途技术
+## 👤 关于行途 XingTu
 
 一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。
 
 - 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
 - GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
 - 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
-- 📱 公众号：「行途 XingTu」（深度长文 + 可抄作业的实战经验，微信搜索关注）
+- 📱 公众号：「行途技术手记」（深度长文 + 可抄作业的实战经验，微信搜索关注）
