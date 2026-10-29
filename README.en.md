@@ -10,7 +10,7 @@
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/xingtu1996?style=social)](https://x.com/xingtu1996)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-xingtu1996.pages.dev-blue)](https://xingtu1996.pages.dev)
 
-**[中文版](./README.md) | [English Version](./README.en.md)**
+**[Chinese](./README.md) | [English Version](./README.en.md)**
 
 </div>
 
