@@ -144,7 +144,7 @@ Not just talking about ideas, but distilling **real production environment pract
 
 ## 📝 Latest Articles
 
-> 47 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
+> 47 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [XingTu article index](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
 
 ---
 

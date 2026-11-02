@@ -175,7 +175,7 @@
 
 ## 📝 最新文章
 
-> 完整文章库（47 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
+> 完整文章库（47 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[行途 · 文章索引](https://xingtu1996.github.io/articles.html)
 
 | 日期 | 标题 | 分类 | 阅读 |
 |------|------|------|------|
