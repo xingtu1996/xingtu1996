@@ -77,7 +77,7 @@ Not just talking about ideas, but distilling **real production environment pract
 | [xingtu-design](https://github.com/xingtu1996/xingtu-design) | Independent brand-visual spec: palette, cover rhythm, body themes, infographic rules | Active |
 | [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | AI agent hook set: on-demand mechanical guards (safety interception / session reminders / delivery review) | Active |
 | [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | Production-grade MCP server collection, independently deployable and reusable across hosts | Active |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | Curated prompt library: 80+ scenario-classified, single-file reusable prompts | Active |
+| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | Curated prompt library: 89 scenario-classified, single-file reusable prompts | Active |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | Rollback-able role-based agent harness generator (init/patch/upgrade/doctor) | Active |
 
 ---
@@ -144,7 +144,7 @@ Not just talking about ideas, but distilling **real production environment pract
 
 ## 📝 Latest Articles
 
-> 46 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
+> 47 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
 
 ---
 
@@ -153,7 +153,7 @@ Not just talking about ideas, but distilling **real production environment pract
 ### Current Focus
 - 🔧 **AI Engineering Practice**: Harness / Agent / MCP / Skill / Rules engineering implementation
 - 🌱 **Knowledge Compounding System**: Turning daily AI sessions into reusable material cards (2153→771)
-- 📝 **WeChat official account**: 46 published articles, from cognition to hands-on practice
+- 📝 **WeChat official account**: 47 published articles, from cognition to hands-on practice
 - 🚀 **Multi-platform Traffic Funnel**: X (@xingtu1996) → GitHub → WeChat Official Account
 
 ### Long-term Goals

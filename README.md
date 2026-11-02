@@ -60,10 +60,10 @@
 
 | 项目 | 说明 | 状态 |
 |------|------|------|
-| ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（79 资产） | 活跃 |
+| ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（77 资产） | 活跃 |
 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **公众号文章库**：已发布文章 Markdown 镜像 + 配图 | 活跃 |
 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI 工程化脚手架：一键拉全开源资产 | 活跃 |
-| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（136 SKILL.md + 87 prompts，find-skills 可检索） | 活跃 |
+| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（138 SKILL.md + 89 prompts，find-skills 可检索） | 活跃 |
 | [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI 协作规则工程化 | 活跃 |
 | [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | 规格驱动开发（SDD）方法论 | 活跃 |
 | [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集（含零依赖 CLI） | 活跃 |
@@ -94,7 +94,7 @@
 | [xingtu-design](https://github.com/xingtu1996/xingtu-design) | **品牌视觉规范独立仓**：三原色 / 封面律动 / 正文排版主题 / 信息图规范 | 活跃 |
 | [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | **AI Agent 钩子集**：按角色选装的机械护栏（安全拦截 / 会话提醒 / 交付检视） | 活跃 |
 | [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | **生产级 MCP 服务集合**：可独立部署、跨宿主复用的 MCP server | 活跃 |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | **精选提示词库**：80+ 条按场景分类、单文件复用的实战提示词 | 活跃 |
+| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | **精选提示词库**：89 条按场景分类、单文件复用的实战提示词 | 活跃 |
 | [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化）；捆绑 hooks / mcps / 品牌视觉规范 | 活跃 |
 | [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：30 技能一条命令安装即用 | 活跃 |
 | [xingtu1996.github.io](https://github.com/xingtu1996/xingtu1996.github.io) | 个人站源码（GitHub Pages） | 活跃 |
@@ -195,7 +195,7 @@
 ### 当前聚焦
 - 🔧 **AI 工程化实战**：Harness / Agent / MCP / Skill / Rules 工程化落地
 - 🌱 **知识复利体系**：把日常 AI 会话沉淀成可复用素材卡（2153→771）
-- 📝 **公众号内容矩阵**：已发 46 篇，从认知到实战
+- 📝 **公众号内容矩阵**：已发 47 篇，从认知到实战
 - 🚀 **多平台引流**：X（@xingtu1996）→ GitHub → 公众号三层漏斗
 
 ### 长期目标
