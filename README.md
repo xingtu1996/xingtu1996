@@ -2,244 +2,63 @@
 
 # 行途 XingTu
 
-**一线 AI 工程化实践者 · 深度写代码**
+**AI 工程化实践 · FDE · Builder**
 
-`Java 后端出身` → `AI 原生全栈（FDE）` → `把前沿 AI 工具链实践转成可复用资产`
+从实际问题出发，把解决方案沉淀成可以理解、验证和复用的工程资产。
 
-[![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=social)](https://github.com/xingtu1996)
-[![X (Twitter) Follow](https://img.shields.io/twitter/follow/xingtu1996?style=social)](https://x.com/xingtu1996)
-[![公众号](https://img.shields.io/badge/公众号-行途技术手记-brightgreen)](https://github.com/xingtu1996/xingtu-articles)
-[![个人站](https://img.shields.io/badge/个人站-xingtu1996.pages.dev-blue)](https://xingtu1996.pages.dev)
-
-**[English Version](./README.en.md) | [中文版](./README.md)**
-
-</div>
-
-> **开源仓库矩阵（2026-11-02 核对）**：请从 [统一矩阵目录](./OPEN_SOURCE_MATRIX.md) 查找已公开仓库、项目分层、成熟度定义与安全边界。此 README 的部分项目数量、成熟度和成果描述属于历史快照，未逐项重新验收，不应作为实时运行或商业效果证明。
->
-> **三个入口的分工**：GitHub Profile 看项目索引 · [GitHub Pages](https://xingtu1996.github.io) 看公开名片 · [作品集网站](https://xingtu1996.pages.dev) 看文章/案例展示。私有项目不提供公开源码下载。
-
----
-
-## 📋 快速导航
-
-- [👋 关于我](#-关于我)
-- [📊 GitHub 贡献](#-github-贡献)
-- [📦 开源矩阵](#-开源矩阵)
-- [🛠 技术栈](#-技术栈)
-- [📝 最新文章](#-最新文章)
-- [🎯 正在做什么](#-正在做什么)
-- [📫 联系我](#-联系我)
-
----
-
-## 👋 关于我
-
-一线 AI 工程化实践者，**深度写代码**。从 Java 后端起步，转向 AI 原生全栈开发，专注 AI 工程化（Harness / Agent / MCP / Skill / Rules）这条"把 AI 变成稳定生产力"的路线。
-
-不是空谈理念，而是把**生产环境的真实实践**蒸馏成可复用的开源工具、方法论与内容——每份资产都经过真实业务场景打磨，可直接落地，避免从零踩坑。
-
-> **技术细节终会过时，工程思想历久弥新。**
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=for-the-badge&logo=github&labelColor=181717&color=2E8B57)](https://github.com/xingtu1996)
-[![GitHub stars](https://img.shields.io/github/stars/xingtu1996?style=for-the-badge&logo=github&labelColor=181717&color=F59E0B&affiliations=OWNER)](https://github.com/xingtu1996?tab=repositories&sort=stargazers)
-
-</div>
-
-> 贡献记录、连续提交与仓库清单以 [GitHub 个人主页](https://github.com/xingtu1996) 实时面板为准，这里不写易过时的静态数字。主要语言：Python / Shell / JavaScript / TypeScript / Java。
-
----
-
-## 📦 开源矩阵
-
-> 🧩 **DSH 相关适配**：部分技能与装配仓提供面向 DeepSeek Harness 的适配；兼容范围、安装方式与版本以各仓实际文件及验证结果为准。
->
-> 每个主题仓独立维护，与聚合仓（harness-kit / xingtu-tools / xingtu-skills）双向互链；独立仓为主题权威源，聚合仓仅做索引装配。
-
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **方法论旗舰仓**：理念/方法/五大工程/治理/会话/样板（79 资产） | 活跃 |
-| [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **公众号文章库**：已发布文章 Markdown 镜像 + 配图 | 活跃 |
-| [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI 工程化脚手架：一键拉全开源资产 | 活跃 |
-| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent 技能聚合仓（136 SKILL.md + 87 prompts，find-skills 可检索） | 活跃 |
-| [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI 协作规则工程化 | 活跃 |
-| [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | 规格驱动开发（SDD）方法论 | 活跃 |
-| [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | 工程脚本工具集（含零依赖 CLI） | 活跃 |
-
-### 定时任务（多 Agent 编排层）
-
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| 🆕 [xingtu-scheduled](https://github.com/xingtu1996/xingtu-scheduled) | **多 Agent 定时任务 Registry**：22 条任务的工具中立清单（触发 / cwd / prompt 全文 / 产物落点）+ 跨平台重建指南。WorkBuddy / Claude Code / cron 全兼容 | 活跃 |
-
-### 学习与决策（过程态资产）
-
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| 🆕 [xingtu-learn](https://github.com/xingtu1996/xingtu-learn) | **公开学习工程**：把「学会一件事」的全过程版本化（计划→输入→笔记→产物→复盘→沉淀）。三轴：技术 / 考证 / **工作驱动** | 活跃 |
-| 🆕 [xingtu-portfolio](https://github.com/xingtu1996/xingtu-portfolio) | **技术决策档案**：不写「我做过什么」，写「我当时为什么这么选」。ADR / 架构模式 / 项目档案（脱敏公开） | 活跃 |
-
-### 工具与分发
-
-| 项目 | 说明 | 状态 |
-|------|------|------|
-| [md2wechat](https://github.com/xingtu1996/md2wechat) | **Markdown → 公众号排版**：单文件 HTML 零依赖，双击打开一键复制。行途排版「墨排」+ 署名页脚 | 活跃 |
-| 🆕 [article2pod](https://github.com/xingtu1996/article2pod) | **文章→双人对话播客零成本流水线**：公众号长文 → 主持人+作者访谈式播客（本地 LLM 写稿 + edge-tts 双音色 + FFmpeg 合成），单集成本 ≈ ¥0.0005 | 活跃 |
-| [book2vido](https://github.com/xingtu1996/book2vido) | **文本→竖屏短视频零成本流水线**：PDF/长文 → 半分钟竖屏片，纯本地跑不烧 API；自带零安装本地模型台（流式对话+实时性能面板） | 活跃 |
-| [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | 可复现 LLM 模型榜单评测 | 活跃 |
-| 🆕 [xingtu-cloud-neutral](https://github.com/xingtu1996/xingtu-cloud-neutral) | **云中立 / Agent 中立理念层**：资产归你、格式通用、可随工具迁徙；每周工具带盘点台账 | 活跃 |
-| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | **服务于 AI Agent 的终端操作接口集**：CLI 工具与封装方法论 | 活跃 |
-| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | **品牌视觉规范独立仓**：三原色 / 封面律动 / 正文排版主题 / 信息图规范 | 活跃 |
-| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | **AI Agent 钩子集**：按角色选装的机械护栏（安全拦截 / 会话提醒 / 交付检视） | 活跃 |
-| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | **生产级 MCP 服务集合**：可独立部署、跨宿主复用的 MCP server | 活跃 |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | **精选提示词库**：80+ 条按场景分类、单文件复用的实战提示词 | 活跃 |
-| [harness-kit](https://github.com/xingtu1996/harness-kit) | 可回滚的角色化 Agent Harness 工作区生成器（init / patch / upgrade / doctor 全命令化）；捆绑 hooks / mcps / 品牌视觉规范 | 活跃 |
-| [dsh-xingtu-skills](https://github.com/xingtu1996/dsh-xingtu-skills) | DSH 标准插件包：30 技能一条命令安装即用 | 活跃 |
-| [xingtu1996.github.io](https://github.com/xingtu1996/xingtu1996.github.io) | 个人站源码（GitHub Pages） | 活跃 |
-
----
-
-## 🛠 技术栈
-
-### AI 工程化
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![WorkBuddy](https://img.shields.io/badge/WorkBuddy-4A90D9?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-![AI Agent](https://img.shields.io/badge/AI_Agent-6B46C1?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge)
-![Harness](https://img.shields.io/badge/Harness-2E8B57?style=for-the-badge)
-![Skills](https://img.shields.io/badge/Skills-8B5CF6?style=for-the-badge)
-![Rules](https://img.shields.io/badge/Rules-EF4444?style=for-the-badge)
-![Hooks](https://img.shields.io/badge/Hooks-06B6D4?style=for-the-badge)
-![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-4F46E5?style=for-the-badge)
-
-### 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 数据与存储
-![SQLCipher](https://img.shields.io/badge/SQLCipher-003B57?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### 框架与库
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 工具与平台
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 云与运维
-![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![腾讯云](https://img.shields.io/badge/腾讯云-00A4FF?style=for-the-badge&logo=tencentqq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🏆 实战背书（AI 工程化）
-
-不是工具收藏家，而是把 AI 真正搬进生产线的工程实践者。以下均有公开仓库 / 文章可核验：
-
-- 🔍 **Coding Agent 选型实测**：Claude Code（主力 FDE）/ Codex / Cursor / Kimi / MiMo / Pi 多工具一线实战，沉淀「选型看场景、不看榜单」的判断框架
-- 🧩 **多 Agent 编排工艺**：SendMessage 上下文注入、长任务休眠续跑、对抗性交叉审查——把「一个 Agent 干不完」拆成可编排流水线
-- 🪙 **省 token 工程化**：CBM + Caveman + Ponytail + Grill-me + rtk 工具链，第一性原理是「把不用推理的活，从模型手里拿回来」
-- 🧪 **AI 测试体系**：6 层金字塔测试策略，把 AI 生成代码纳入工程化质量门禁，而非「跑通就行」
-- 🛡 **诚实边界**：公开哪些场景真能提效、哪些只是演示——用可信替代夸张，是长期复利的前提
-
----
-
-## 📝 最新文章
-
-> 完整文章库（47 篇，按年月归档）见 [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) ｜ 可视化浏览：[文章星图](https://xingtu1996.github.io/articles.html)
-
-| 日期 | 标题 | 分类 | 阅读 |
-|------|------|------|------|
-| 2026-10-29 | [Agent 到底是什么？AI 开始自己干活，差的不是模型](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-29-agent-daodi-shenme.md) | 📌 AI Agent 科普 | 29 |
-| 2026-10-28 | [预估六周，九天交付：第一条自动化流程，为什么先选资金报表](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-28-fde-fund-report.md) | 📌 未分类 | 9 |
-| 2026-10-28 | [先别急着上模型：万条评论洗成一套数据，三个业务共用](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-28-fde-data-cleaning.md) | 📌 未分类 | 9 |
-| 2026-10-27 | [token 效率工具 Headroom：官方说代码省 20%，日志能省 99%](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-27-token-06-headroom.md) | 🚀 工具横评 | 7 |
-| 2026-10-26 | [代码写得飞快，交付还是慢：70+ 企业的四道质量门禁](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-26-four-quality-gates.md) | 📌 AI工程化实战 | 64 |
-| 2026-10-25 | [交付源码，其实是最后一步](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-25-deliver-source-code-last.md) | 📌 看懂FDE | 25 |
-| 2026-10-24 | [企业花百万买 AI 工具，为什么还是用不起来？三个错位](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-24-enterprise-ai-three-mismatches.md) | 📌 看懂FDE | 8 |
-| 2026-10-23 | [AI 跑命令，95% 的输出都是噪音？试试 rtk](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-23-ai-command-noise-rtk.md) | 📌 AI工程化 | 32 |
-| 2026-10-22 | [你的 AI Skill，改完真的不退化吗？](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-22-ai-skill-regression-gate.md) | 📌 AI工程化 | 10 |
-| 2026-10-21 | [项目范围越失控，客户越满意？一个 FDE 项目的真相](https://github.com/xingtu1996/xingtu-articles/blob/main/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md) | 📌 FDE实战 | 18 |
-
-## 🎯 正在做什么
-
-### 当前聚焦
-- 🔧 **AI 工程化实战**：Harness / Agent / MCP / Skill / Rules 工程化落地
-- 🌱 **知识复利体系**：把日常 AI 会话沉淀成可复用素材卡（2153→771）
-- 📝 **公众号内容矩阵**：已发 46 篇，从认知到实战
-- 🚀 **多平台引流**：X（@xingtu1996）→ GitHub → 公众号三层漏斗
-
-### 长期目标
-- 📚 出书：《AI 工程师：普通人的生存与复利》
-- 🏢 创业：AI 工程化工具与服务
-- 🌍 影响：帮助 10000+ 技术人完成 AI 时代转型
-
----
-
-## 📫 联系我
-
-<div align="center">
-
-| 平台 | 账号 | 说明 |
-|------|------|------|
-| 🌐 个人站 | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | 个人主页与作品集 |
-| 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI工程化实战，build in public |
-| 📱 公众号 | **行途技术手记**（微信搜索关注） | AI 工程化实践 · 小厂技术人的真实成长 |
-| ✍️ 掘金/CSDN/知乎 | @行途技术 | 技术文章同步分发 |
-| ✉️ 邮箱 | xingtutech@163.com | 商务合作 · 企业陪跑 · 内训 |
+[中文](./README.md) · [English](./README.en.md) · [开源项目目录](./OPEN_SOURCE_MATRIX.md)
 
 </div>
 
 ---
 
-<div align="center">
+## 关注什么
 
-**感谢关注！欢迎 Star / Fork / 交流 👋**
+我持续写代码，也记录 AI 在工程交付中的实际边界。这里主要围绕三个问题：
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xingtu1996&label=Profile%20views&color=2E8B57&style=for-the-badge)
+1. **Knowledge｜为什么这样做？** 理解 AI Agent、FDE、Harness、上下文与工具协作背后的工程取舍。
+2. **Practice｜怎样证明有效？** 记录实验、失败、验证条件和经过脱敏的设计决策，不用未经复核的数字替代证据。
+3. **Tools｜别人能否复用？** 将规则、技能、流程和工具独立维护，说明适用环境、安装方法和局限。
 
-</div>
+## 从哪里开始
+
+| 读者目的 | 项目 | 可以看到什么 |
+| --- | --- | --- |
+| 理解工程方法 | [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | AI 工程化方法、结构与示例 |
+| 查看 Agent 资产装配 | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | 多个独立组件的集成入口 |
+| 拆解实际决策 | [xingtu-portfolio](https://github.com/xingtu1996/xingtu-portfolio) | 已脱敏的 ADR、项目模式与决策边界 |
+| 复盘学习过程 | [xingtu-learn](https://github.com/xingtu1996/xingtu-learn) | 学习、实验、验证和复盘记录 |
+| 阅读公开文章 | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | 技术文章与公开内容档案 |
+| 理解流程门禁 | [xingtu-workflows](https://github.com/xingtu1996/xingtu-workflows) | 人与 Agent 可以共同遵循的 SOP |
+| 跟进跨 Agent 研究 | [xingtu-super-agent](https://github.com/xingtu1996/xingtu-super-agent) | **Research Preview**：研究与设计，不代表产品已正式可用 |
+
+**[查看全部公开项目与职责划分 →](./OPEN_SOURCE_MATRIX.md)**
+
+项目数量、开发状态、版本兼容性和运行效果，以各仓库的实际文件、测试结果及 Release 为准。这里不把“仓库存在”当作“功能已交付”。
+
+## 三个对外入口
+
+| 入口 | 用途 |
+| --- | --- |
+| [GitHub Profile](https://github.com/xingtu1996) | 开源项目及其可信证据的总入口 |
+| [行途名片 · GitHub Pages](https://xingtu1996.github.io) | 精简名片与公开文章导览 |
+| [行途作品集](https://xingtu1996.pages.dev) | 文章、案例与工程作品展示 |
+
+三个入口不分别维护完整项目数据；**[OPEN_SOURCE_MATRIX.md](./OPEN_SOURCE_MATRIX.md)** 是公开仓库索引，各项目 README 是项目细节来源。
+
+## 如何核验和复用
+
+- **方法与工具**：先读对应项目 README 和限制说明，再看代码、运行方式、测试与变更记录。
+- **案例与文章**：关注原文、决策依据、适用条件和证据边界。无法公开验证的成果数字，不作为统一背书。
+- **实验项目**：明确标记研究预览、可复现实验、可用工具或归档状态；未合并的 PR 不代表已经部署。
+- **隐私边界**：个人联系方式、企业内部资料、未授权素材和原始执行日志不进入公开仓库。
+
+## 交流
+
+GitHub：[@xingtu1996](https://github.com/xingtu1996) · 公众号：**行途技术手记**（微信搜索） · [公开文章](https://github.com/xingtu1996/xingtu-articles)
+
+如果某个项目的文档、样例或验证步骤有问题，欢迎在对应仓库提交 Issue。
 
 ---
 
-## 👤 关于行途 XingTu
-
-一线 builder，仍在写代码。专注 AI 工具链与工程化落地，分享可抄作业的实战经验。
-
-- 𝕏 X：[@xingtu1996](https://x.com/xingtu1996)（AI工程化实战，build in public）
-- GitHub：[github.com/xingtu1996](https://github.com/xingtu1996)
-- 🌐 个人站：[xingtu1996.pages.dev](https://xingtu1996.pages.dev)
-- 📱 公众号：「行途技术手记」（深度长文 + 可抄作业的实战经验，微信搜索关注）
+*工具会变，工程判断要留下。*
