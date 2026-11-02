@@ -1,188 +1,59 @@
 <div align="center">
 
-# 行途 XingTu (XingTu)
+# XingTu · 行途
 
-**Hands-on AI Engineering Practitioner · Still shipping code**
+**AI Engineering · FDE · Builder**
 
-`Java Backend Background` → `AI-Native Full-Stack (FDE)` → `Turning cutting-edge AI toolchain practices into reusable assets`
+Turning practical engineering problems into knowledge, documented decisions, and reusable tools.
 
-[![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=social)](https://github.com/xingtu1996)
-[![X (Twitter) Follow](https://img.shields.io/twitter/follow/xingtu1996?style=social)](https://x.com/xingtu1996)
-[![Personal Site](https://img.shields.io/badge/Personal_Site-xingtu1996.pages.dev-blue)](https://xingtu1996.pages.dev)
-
-**[Chinese](./README.md) | [English Version](./README.en.md)**
+[中文](./README.md) · [English](./README.en.md) · [Public repository map](./OPEN_SOURCE_MATRIX.md)
 
 </div>
 
 ---
 
-## 📋 Quick Navigation
+## The work
 
-- [👋 About Me](#-about-me)
-- [📊 GitHub Contributions](#-github-contributions)
-- [📦 Open Source Matrix](#-open-source-matrix)
-- [🛠 Tech Stack](#-tech-stack)
-- [📝 Latest Articles](#-latest-articles)
-- [🎯 What I'm Working On](#-what-im-working-on)
-- [📫 Contact](#-contact)
+I continue to build software while exploring how AI agents and engineering workflows can support reliable delivery. This work is organized into three layers:
 
----
+- **Knowledge — why?** AI agents, FDE, harness design, context engineering, and trade-offs.
+- **Practice — what evidence?** Experiments, lessons learned, decision records, and clearly stated limits.
+- **Tools — can others reuse it?** Skills, rules, workflows, and utilities with documented assumptions.
 
-## 👋 About Me
+## Start here
 
-Hands-on AI engineering practitioner, **writing code daily**. Started as a Java backend developer, transitioned to AI-native full-stack development, focused on AI engineering (Harness / Agent / MCP / Skill / Rules) — the path of "turning AI into stable productivity."
+| Interest | Repository | Focus |
+| --- | --- | --- |
+| Engineering methodology | [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | Methods, patterns and examples |
+| Agent workspace assembly | [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | Integration entry point for independent components |
+| Decision records | [xingtu-portfolio](https://github.com/xingtu1996/xingtu-portfolio) | Sanitized ADRs and design trade-offs |
+| Learning and validation | [xingtu-learn](https://github.com/xingtu1996/xingtu-learn) | Study notes, experiments and retrospectives |
+| Published writing | [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | Public technical articles |
+| Workflow gates | [xingtu-workflows](https://github.com/xingtu1996/xingtu-workflows) | Human/agent SOPs |
+| Cross-agent research | [xingtu-super-agent](https://github.com/xingtu1996/xingtu-super-agent) | **Research Preview**, not a production release |
 
-Not just talking about ideas, but distilling **real production environment practices** into reusable open-source tools, methodologies, and content — every asset has been battle-tested in real business scenarios, ready to use directly, avoiding starting from scratch.
+**[Browse the public repository map](./OPEN_SOURCE_MATRIX.md)** for the complete classification and publication boundaries.
 
-> **Technical details will become outdated, but engineering thinking lasts forever.**
+A repository existing is not proof that its software is released, tested, or production-ready. For capabilities and compatibility, consult each project's README, code, tests and release records.
 
----
+## Three public entry points
 
-## 📊 GitHub Stats
+- [GitHub Profile](https://github.com/xingtu1996): the index of public projects.
+- [GitHub Pages](https://xingtu1996.github.io): a lightweight profile and article directory.
+- [Portfolio website](https://xingtu1996.pages.dev): selected writing, projects and case studies.
 
-<div align="center">
+The [public repository map](./OPEN_SOURCE_MATRIX.md) maintains the project index. Individual project repositories own their implementation details. Private work materials, unpublished drafts, contact details, and unapproved third-party data are not published.
 
-[![GitHub followers](https://img.shields.io/github/followers/xingtu1996?style=for-the-badge&logo=github&labelColor=181717&color=2E8B57)](https://github.com/xingtu1996)
-[![GitHub stars](https://img.shields.io/github/stars/xingtu1996?style=for-the-badge&logo=github&labelColor=181717&color=F59E0B&affiliations=OWNER)](https://github.com/xingtu1996?tab=repositories&sort=stargazers)
+## Verify before reusing
 
-</div>
+Look for documented setup instructions, reproducible checks, supporting evidence, clear maturity labels and known limitations. Historical claims and unmerged pull requests are not substitutes for verified releases.
 
-> Contributions, streaks, and the repository list are shown live on [my GitHub profile](https://github.com/xingtu1996); this page avoids hard-coded numbers that go stale. Primary languages: Python / Shell / JavaScript / TypeScript / Java.
+## Connect
 
----
+GitHub: [@xingtu1996](https://github.com/xingtu1996) · WeChat public account: **行途技术手记** · [Published articles](https://github.com/xingtu1996/xingtu-articles)
 
-## 📦 Open Source Matrix
-
-> 🧩 **DeepSeek Harness (DSH) Ecosystem Compatible**: skills / rules / harness repos follow DSH's "everything is a plugin" standard format.
->
-> Each topic repo is maintained independently and cross-linked with the aggregation repos (harness-kit / xingtu-tools / xingtu-skills); the topic repo is the authoritative source, aggregation repos only index and assemble.
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| ⭐ [xingtu-ai-engineering](https://github.com/xingtu1996/xingtu-ai-engineering) | **Methodology flagship**: concepts / methods / five engineering pillars / governance / sessions / templates | Active |
-| [xingtu-articles](https://github.com/xingtu1996/xingtu-articles) | **Article library**: published articles Markdown mirror + images | Active |
-| [xingtu-harness](https://github.com/xingtu1996/xingtu-harness) | AI engineering scaffolding: one-click pull all open-source assets | Active |
-| ⭐ [xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | AI Agent skills aggregation repo, searchable via find-skills | Active |
-| [xingtu-rules](https://github.com/xingtu1996/xingtu-rules) | AI collaboration rules engineering | Active |
-| [xingtu-sdd](https://github.com/xingtu1996/xingtu-sdd) | Spec-Driven Development (SDD) methodology | Active |
-| [xingtu-tools](https://github.com/xingtu1996/xingtu-tools) | Engineering scripts toolkit (incl. zero-dependency CLI) | Active |
-| [xingtu-scheduled](https://github.com/xingtu1996/xingtu-scheduled) | Multi-agent scheduled-task registry, tool-neutral, cross-platform | Active |
-| [xingtu-learn](https://github.com/xingtu1996/xingtu-learn) | Versioned "learn something" process: plan → notes → output → review | Active |
-| [xingtu-portfolio](https://github.com/xingtu1996/xingtu-portfolio) | Decision archive (ADR / patterns): why I chose, not just what I built | Active |
-| [md2wechat](https://github.com/xingtu1996/md2wechat) | Markdown → WeChat formatting, zero-dependency single-file HTML | Active |
-| [article2pod](https://github.com/xingtu1996/article2pod) | Article → dual-voice interview podcast, local LLM + edge-tts + FFmpeg | Active |
-| [tokenhub-bench](https://github.com/xingtu1996/tokenhub-bench) | Reproducible LLM model benchmark evaluation | Active |
-| [xingtu-cloud-neutral](https://github.com/xingtu1996/xingtu-cloud-neutral) | **Cloud-neutral / agent-neutral philosophy**: assets stay yours, formats stay portable, tools can be swapped; weekly toolbelt inventory | Active |
-| [xingtu-cli](https://github.com/xingtu1996/xingtu-cli) | Terminal operation interface set for AI agents: CLI tools and packaging methodology | Active |
-| [xingtu-design](https://github.com/xingtu1996/xingtu-design) | Independent brand-visual spec: palette, cover rhythm, body themes, infographic rules | Active |
-| [xingtu-hooks](https://github.com/xingtu1996/xingtu-hooks) | AI agent hook set: on-demand mechanical guards (safety interception / session reminders / delivery review) | Active |
-| [xingtu-mcps](https://github.com/xingtu1996/xingtu-mcps) | Production-grade MCP server collection, independently deployable and reusable across hosts | Active |
-| [xingtu-prompts](https://github.com/xingtu1996/xingtu-prompts) | Curated prompt library: 80+ scenario-classified, single-file reusable prompts | Active |
-| [harness-kit](https://github.com/xingtu1996/harness-kit) | Rollback-able role-based agent harness generator (init/patch/upgrade/doctor) | Active |
+For questions about a specific project, open an Issue in that repository when Issues are enabled.
 
 ---
 
-## 🛠 Tech Stack
-
-### AI Engineering
-![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![WorkBuddy](https://img.shields.io/badge/WorkBuddy-4A90D9?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-![AI Agent](https://img.shields.io/badge/AI_Agent-6B46C1?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge)
-![Harness](https://img.shields.io/badge/Harness-2E8B57?style=for-the-badge)
-![Skills](https://img.shields.io/badge/Skills-8B5CF6?style=for-the-badge)
-![Rules](https://img.shields.io/badge/Rules-EF4444?style=for-the-badge)
-![Hooks](https://img.shields.io/badge/Hooks-06B6D4?style=for-the-badge)
-![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-4F46E5?style=for-the-badge)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Data & Storage
-![SQLCipher](https://img.shields.io/badge/SQLCipher-003B57?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Cloud & DevOps
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Tencent Cloud](https://img.shields.io/badge/Tencent_Cloud-00A4FF?style=for-the-badge&logo=tencentqq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📝 Latest Articles
-
-> 46 published articles (Markdown mirror + images), archived by month, live in [xingtu-articles](https://github.com/xingtu1996/xingtu-articles); visual index on the [article star map](https://xingtu1996.github.io/articles.html). Articles are first published on the WeChat official account "行途技术手记"; the GitHub repo is the searchable mirror.
-
----
-
-## 🎯 What I'm Working On
-
-### Current Focus
-- 🔧 **AI Engineering Practice**: Harness / Agent / MCP / Skill / Rules engineering implementation
-- 🌱 **Knowledge Compounding System**: Turning daily AI sessions into reusable material cards (2153→771)
-- 📝 **WeChat official account**: 46 published articles, from cognition to hands-on practice
-- 🚀 **Multi-platform Traffic Funnel**: X (@xingtu1996) → GitHub → WeChat Official Account
-
-### Long-term Goals
-- 📚 Book: "AI Engineer: Survival and Compounding for Ordinary People"
-- 🏢 Startup: AI engineering tools and services
-- 🌍 Impact: Help 10,000+ engineers complete the AI era transformation
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-| Platform | Account | Description |
-|----------|---------|-------------|
-| 🌐 Personal Site | [xingtu1996.pages.dev](https://xingtu1996.pages.dev) | Personal homepage and portfolio |
-| 𝕏 X | [@xingtu1996](https://x.com/xingtu1996) | AI engineering practice, build in public |
-| 📱 WeChat | **行途技术手记** (search on WeChat) | AI engineering practice · hands-on notes from production |
-| ✍️ Juejin/CSDN/Zhihu | @行途技术 | Tech article syndication |
-| ✉️ Email | xingtutech@163.com | Consulting · coaching · enterprise training |
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for following! Welcome to Star / Fork / Connect 👋**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=xingtu1996&label=Profile%20views&color=2E8B57&style=for-the-badge)
-
-</div>
+*Tools change. Engineering judgement endures.*
