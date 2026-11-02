@@ -15,6 +15,10 @@
 
 </div>
 
+> **开源仓库矩阵（2026-11-02 核对）**：请从 [统一矩阵目录](./OPEN_SOURCE_MATRIX.md) 查找已公开仓库、项目分层、成熟度定义与安全边界。此 README 的部分项目数量、成熟度和成果描述属于历史快照，未逐项重新验收，不应作为实时运行或商业效果证明。
+>
+> **三个入口的分工**：GitHub Profile 看项目索引 · [GitHub Pages](https://xingtu1996.github.io) 看公开名片 · [作品集网站](https://xingtu1996.pages.dev) 看文章/案例展示。私有项目不提供公开源码下载。
+
 ---
 
 ## 📋 快速导航
@@ -54,7 +58,7 @@
 
 ## 📦 开源矩阵
 
-> 🧩 **DeepSeek Harness（DSH）生态兼容**：skills / rules / harness 各仓均按 DSH「一切皆插件」模型的标准格式提供。
+> 🧩 **DSH 相关适配**：部分技能与装配仓提供面向 DeepSeek Harness 的适配；兼容范围、安装方式与版本以各仓实际文件及验证结果为准。
 >
 > 每个主题仓独立维护，与聚合仓（harness-kit / xingtu-tools / xingtu-skills）双向互链；独立仓为主题权威源，聚合仓仅做索引装配。
 
